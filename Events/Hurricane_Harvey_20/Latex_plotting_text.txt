@@ -1,0 +1,11 @@
+
+\begin{figure}[p]
+  \centering
+  \subfloat[Total and anonymous edits over an 8 weeks analysis period.]{\includegraphics[width=\textwidth, keepaspectratio]{Figures/Events/revisions_plot_Hurricane_Harvey.png}\label{fig:revisions_plot_Hurricane_Harvey}}
+  \hfill
+  \subfloat[Total and anonymous edits over a 12 months analysis period.]{\includegraphics[width=\textwidth, keepaspectratio]{Figures/Events/revisions_plot_yearly_Hurricane_Harvey.png}\label{fig:revisions_plot_yearly_Hurricane_Harvey}}
+  \hfill
+  \subfloat[Reverted edits and reverted-vandalism edits over an 8 weeks analysis period.]{\includegraphics[width=\textwidth, keepaspectratio]{Figures/Events/reverts_plot_Hurricane_Harvey.png}\label{fig:reverts_plot_Hurricane_Harvey}}
+  \caption{Edits, reverted edits, including anonymous edits and vandalism-reverted edits during the Hurricane Harvey on 2017-08-25. Plots (a) and (c) cover an 8-week period (2017-07-28 - 2017-09-22), with 4 weeks before and after. Plot (b) covers a 12-month period (2017-02-25 - 2018-02-25), with 6 months before and after.}
+  \label{fig:edits_plot_Hurricane_Harvey}
+\end{figure}

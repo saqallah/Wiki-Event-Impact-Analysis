@@ -1,0 +1,35 @@
+Revisions
+#Element	#Total	#Geoloacted	#Registered	#Anonymous
+Whole_Period	5,397	521	4,613	784
+Percentage		9.65	85.47	14.53
+Before	768	89	619	149
+Percentage		11.59%	80.60%	19.40%
+After	4,629	432	3,994	635
+Percentage		9.33%	86.28%	13.72%
+
+
+Reverts
+#Element	#Total	#Geoloacted	#Registered	#Anonymous
+Whole_Period	189	176
+Percentage		93.12
+Before	28	24
+Percentage		85.71%
+After	161	152
+Percentage		94.41%
+
+
+Vandalism
+#Element	#Total	#Geoloacted	#Registered	#Anonymous
+Whole_Period	16	15
+Percentage		93.75
+Before	4	4
+Percentage		100.00%
+After	12	11
+Percentage		91.67%
+
+
+Increasement
+#Element	#Total	#Geoloacted	#Registered	#Anonymous
+Revisions	502.73	385.39	545.23	326.17
+Reverts	475.00	533.33
+Reverts	200.00	175.00

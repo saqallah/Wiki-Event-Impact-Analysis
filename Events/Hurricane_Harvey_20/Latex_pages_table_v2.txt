@@ -1,0 +1,31 @@
+
+\begin{table}[H]
+\scriptsize
+\setlength{\tabcolsep}{5.6pt}
+\caption{Top 10 articles ranked by total edits during the Hurricane Harvey on 2017-08-25. Covers 8 weeks (2017-07-28 - 2017-09-22),  with 4 weeks before and after. Table shows counts of total, reverted, and vandalism-reverted edits for each article before and after the event. Includes protection status (\scalebox{0.8}{\faLock}) and if the article was protected during the analysis period \scalebox{0.8}{(\faAt)}. Summation row provides overall statistics for all 10 articles. Percentage contribution indicates edits proportion compared to total analysis edits.}
+\label{table:Hurricane Harvey Top 10}
+\centering
+\begin{adjustbox}{width=\textwidth}
+\begin{tabular}{@{}l@{\hspace{12pt}}cccccccccc@{}}
+\toprule
+\bfseries Top 10 Articles by Total Edits & \multicolumn{4}{c}{\bfseries Edits} & \multicolumn{2}{c}{\bfseries Reverts} & \multicolumn{2}{c}{\bfseries Vand.} & \multicolumn{2}{c}{\bfseries Protec.}\\
+\cmidrule(r{\tabcolsep}){2-5}
+\cmidrule(l{\tabcolsep}r{\tabcolsep}){6-7}
+\cmidrule(l{\tabcolsep}r{\tabcolsep}){8-9}
+\cmidrule(l{\tabcolsep}){10-11}
+&  $\sum$ & \% & $\leftarrow$  & $\rightarrow$ & $\leftarrow$ & $\rightarrow$ & $\leftarrow$ & $\rightarrow$ & \faLock & \faAt\\
+\midrule
+2017 Atlantic hurricane season & 2,885 & 53\% & 632 & 2,253 & 22 & \phantom{0}82 & 2 & \phantom{0}1 & $\times$ & \\
+Hurricane Harvey & 1,432 & 27\% & \phantom{0}29 & 1,403 & \phantom{0}0 & \phantom{0}36 & 0 & \phantom{0}4 & $\checkmark$ & $\checkmark$\\
+Joel Osteen & \phantom{0,}313 & \phantom{0}6\% & \phantom{0}10 & \phantom{0,}303 & \phantom{0}1 & \phantom{0}23 & 1 & \phantom{0}6 & $\times$ & \\
+Houston & \phantom{0,}138 & \phantom{0}3\% & \phantom{0}20 & \phantom{0,}118 & \phantom{0}3 & \phantom{00}7 & 0 & \phantom{0}0 & $\times$ & \\
+Timeline of the 2017 Atlantic hurricane season & \phantom{0,}102 & \phantom{0}2\% & \phantom{0}42 & \phantom{00,}60 & \phantom{0}0 & \phantom{00}2 & 0 & \phantom{0}0 & $\times$ & \\
+Lakewood Church & \phantom{00,}83 & \phantom{0}2\% & \phantom{00}0 & \phantom{00,}83 & \phantom{0}0 & \phantom{00}7 & 0 & \phantom{0}1 & $\times$ & \\
+Cajun Navy & \phantom{00,}71 & \phantom{0}1\% & \phantom{00}0 & \phantom{00,}71 & \phantom{0}0 & \phantom{00}1 & 0 & \phantom{0}0 & $\times$ & \\
+Tropical cyclone & \phantom{00,}67 & \phantom{0}1\% & \phantom{00}8 & \phantom{00,}59 & \phantom{0}0 & \phantom{00}0 & 0 & \phantom{0}0 & $\checkmark$ & $\times$\\
+List of Texas hurricanes (1980–present) & \phantom{00,}56 & \phantom{0}1\% & \phantom{00}3 & \phantom{00,}53 & \phantom{0}0 & \phantom{00}0 & 0 & \phantom{0}0 & $\times$ & \\
+Rockport, Texas & \phantom{00,}53 & \phantom{0}1\% & \phantom{00}0 & \phantom{00,}53 & \phantom{0}0 & \phantom{00}0 & 0 & \phantom{0}0 & $\times$ & \\
+\midrule
+$\sum$ & 5,200 & 96\% & 744 & 4,456  & 26 & 158 & 3 & 12 & 2 & 1\\
+\bottomrule
+\end{tabular}\end{adjustbox}\end{table}

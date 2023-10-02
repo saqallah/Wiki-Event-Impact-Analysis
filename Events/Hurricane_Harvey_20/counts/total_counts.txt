@@ -1,0 +1,3 @@
+##########	#Revisions	#Reverts	#Vandalism Reverts
+Total:	70375	9233	1659
+Geoloacted revisions:	16003	7401	1335

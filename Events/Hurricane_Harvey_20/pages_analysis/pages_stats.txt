@@ -1,0 +1,69 @@
+All pages with their revisions:
+Page ID: 38113551, Article Title: 2017 Atlantic hurricane season, Revisions: 2885, Protection status: NOT protected, TimeStamp: []
+Page ID: 55016388, Article Title: Hurricane Harvey, Revisions: 1432, Protection status: Protected, TimeStamp: ['2017-08-24T17:49:11Z']
+Page ID: 908568, Article Title: Joel Osteen, Revisions: 313, Protection status: NOT protected, TimeStamp: []
+Page ID: 13774, Article Title: Houston, Revisions: 138, Protection status: NOT protected, TimeStamp: []
+Page ID: 52737054, Article Title: Timeline of the 2017 Atlantic hurricane season, Revisions: 102, Protection status: NOT protected, TimeStamp: []
+Page ID: 546392, Article Title: Lakewood Church, Revisions: 83, Protection status: NOT protected, TimeStamp: []
+Page ID: 51502087, Article Title: Cajun Navy, Revisions: 71, Protection status: NOT protected, TimeStamp: []
+Page ID: 8282374, Article Title: Tropical cyclone, Revisions: 67, Protection status: Protected, TimeStamp: ['2002-01-09T02:30:27Z']
+Page ID: 6949921, Article Title: List of Texas hurricanes (1980–present), Revisions: 56, Protection status: NOT protected, TimeStamp: []
+Page ID: 135441, Article Title: Rockport, Texas, Revisions: 53, Protection status: NOT protected, TimeStamp: []
+Page ID: 42324347, Article Title: Sylvester Turner, Revisions: 51, Protection status: NOT protected, TimeStamp: []
+Page ID: 2569378, Article Title: Hurricane Katrina, Revisions: 50, Protection status: Protected, TimeStamp: ['2005-05-09T07:50:53Z']
+Page ID: 61294, Article Title: Harvey, Revisions: 35, Protection status: NOT protected, TimeStamp: []
+Page ID: 73797, Article Title: Federal Emergency Management Agency, Revisions: 22, Protection status: NOT protected, TimeStamp: []
+Page ID: 799139, Article Title: 1981 Atlantic hurricane season, Revisions: 18, Protection status: NOT protected, TimeStamp: []
+Page ID: 7697, Article Title: Lockheed C-130 Hercules, Revisions: 9, Protection status: NOT protected, TimeStamp: []
+Page ID: 281603, Article Title: Minute Maid Park, Revisions: 5, Protection status: NOT protected, TimeStamp: []
+Page ID: 136523, Article Title: Refugio, Texas, Revisions: 3, Protection status: NOT protected, TimeStamp: []
+Page ID: 55218709, Article Title: Effects of Hurricane Harvey in Texas, Revisions: 2, Protection status: NOT protected, TimeStamp: []
+Page ID: 759376, Article Title: 1993 Atlantic hurricane season, Revisions: 2, Protection status: NOT protected, TimeStamp: []
+
+All pages with their reverts:
+Page ID: 38113551, Article Title: 2017 Atlantic hurricane season, Reverts: 104, Protection status: NOT protected
+Page ID: 55016388, Article Title: Hurricane Harvey, Reverts: 36, Protection status: Protected
+Page ID: 908568, Article Title: Joel Osteen, Reverts: 24, Protection status: NOT protected
+Page ID: 13774, Article Title: Houston, Reverts: 10, Protection status: NOT protected
+Page ID: 546392, Article Title: Lakewood Church, Reverts: 7, Protection status: NOT protected
+Page ID: 61294, Article Title: Harvey, Reverts: 2, Protection status: NOT protected
+Page ID: 42324347, Article Title: Sylvester Turner, Reverts: 2, Protection status: NOT protected
+Page ID: 52737054, Article Title: Timeline of the 2017 Atlantic hurricane season, Reverts: 2, Protection status: NOT protected
+Page ID: 51502087, Article Title: Cajun Navy, Reverts: 1, Protection status: NOT protected
+Page ID: 799139, Article Title: 1981 Atlantic hurricane season, Reverts: 1, Protection status: NOT protected
+Page ID: 73797, Article Title: Federal Emergency Management Agency, Reverts: 0, Protection status: NOT protected
+Page ID: 135441, Article Title: Rockport, Texas, Reverts: 0, Protection status: NOT protected
+Page ID: 136523, Article Title: Refugio, Texas, Reverts: 0, Protection status: NOT protected
+Page ID: 7697, Article Title: Lockheed C-130 Hercules, Reverts: 0, Protection status: NOT protected
+Page ID: 2569378, Article Title: Hurricane Katrina, Reverts: 0, Protection status: Protected
+Page ID: 281603, Article Title: Minute Maid Park, Reverts: 0, Protection status: NOT protected
+Page ID: 55218709, Article Title: Effects of Hurricane Harvey in Texas, Reverts: 0, Protection status: NOT protected
+Page ID: 6949921, Article Title: List of Texas hurricanes (1980–present), Reverts: 0, Protection status: NOT protected
+Page ID: 759376, Article Title: 1993 Atlantic hurricane season, Reverts: 0, Protection status: NOT protected
+Page ID: 8282374, Article Title: Tropical cyclone, Reverts: 0, Protection status: Protected
+
+All pages with their vandalism reverts:
+Page ID: 908568, Article Title: Joel Osteen, Vandalism Reverts: 7, Protection status: NOT protected
+Page ID: 55016388, Article Title: Hurricane Harvey, Vandalism Reverts: 4, Protection status: Protected
+Page ID: 38113551, Article Title: 2017 Atlantic hurricane season, Vandalism Reverts: 3, Protection status: NOT protected
+Page ID: 61294, Article Title: Harvey, Vandalism Reverts: 1, Protection status: NOT protected
+Page ID: 546392, Article Title: Lakewood Church, Vandalism Reverts: 1, Protection status: NOT protected
+Page ID: 73797, Article Title: Federal Emergency Management Agency, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 135441, Article Title: Rockport, Texas, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 136523, Article Title: Refugio, Texas, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 7697, Article Title: Lockheed C-130 Hercules, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 13774, Article Title: Houston, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 2569378, Article Title: Hurricane Katrina, Vandalism Reverts: 0, Protection status: Protected
+Page ID: 281603, Article Title: Minute Maid Park, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 42324347, Article Title: Sylvester Turner, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 51502087, Article Title: Cajun Navy, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 52737054, Article Title: Timeline of the 2017 Atlantic hurricane season, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 55218709, Article Title: Effects of Hurricane Harvey in Texas, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 6949921, Article Title: List of Texas hurricanes (1980–present), Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 759376, Article Title: 1993 Atlantic hurricane season, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 799139, Article Title: 1981 Atlantic hurricane season, Vandalism Reverts: 0, Protection status: NOT protected
+Page ID: 8282374, Article Title: Tropical cyclone, Vandalism Reverts: 0, Protection status: Protected
+
+Total revisions for all pages: 5397
+Total reverts for all pages: 189
+Total vandalism reverts for all pages: 16

@@ -30,6 +30,8 @@ Before executing the "run_all.py" script, you'll need to customize the configura
     "input_file": "Event_Data_File.xml.gz",  // Replace with the name of the extracted related articles file.
     "event_name_for_latex": "Event Name"  // Replace with the name of the event for LaTeX files.
 }
+```
+
 
 Once you've customized the configuration, you can proceed to run the "run_all.py" script to perform the analysis.
 

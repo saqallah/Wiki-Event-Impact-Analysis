@@ -22,7 +22,7 @@ To analyze the articles extracted from the English Wikipedia editing history, fo
 
 **Before Running the Analysis Script, Modify the Configuration**:
 
-Before executing the "run_all.py" script, you'll need to customize the configuration in the "config.json" file to specify the event you want to analyze. Here's what you should modify in the "config.json" file:
+Before executing the analysis, you'll need to customize the configuration in the `config.json` file to specify the event you want to analyze. Here's what you should modify in the `config.json` file:
 
 ```json
 {
@@ -31,7 +31,6 @@ Before executing the "run_all.py" script, you'll need to customize the configura
     "event_name_for_latex": "Event Name"  // Replace with the name of the event for LaTeX files.
 }
 ```
-
 
 Once you've customized the configuration, you can proceed to run the "run_all.py" script to perform the analysis.
 

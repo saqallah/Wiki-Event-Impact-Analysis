@@ -18,7 +18,5 @@ To perform the analysis described in the thesis, you will need to acquire the re
 
 After obtaining the comprehensive editing data for all of the English Wikipedia until January 2023, you can extract articles related to specific events using the code provided in the `src` folder, specifically the `by_search_article_extraction.py` script. In this script, you should modify the code to include the event name as the search word and adjust the number of related articles. The process for choosing the number of related articles is explained in detail in the thesis.
 
-For more details and guidance on using the code and data in this repository, please refer to the thesis document itself.
-
 If you have any questions or need further assistance, feel free to reach out.
 

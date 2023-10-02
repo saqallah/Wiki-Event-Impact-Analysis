@@ -31,6 +31,8 @@ Before executing the "run_all.py" script, you'll need to customize the configura
     "event_name_for_latex": "Event Name"  // Replace with the name of the event for LaTeX files.
 }
 
+Once you've customized the configuration, you can proceed to run the "run_all.py" script to perform the analysis.
+
 ## Performing Analysis on Extracted Articles
 
 To analyze the articles extracted from the English Wikipedia editing history, follow these steps:

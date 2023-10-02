@@ -18,6 +18,19 @@ To perform the analysis described in the thesis, you will need to acquire the re
 
 After obtaining the comprehensive editing data for all of the English Wikipedia until January 2023, you can extract articles related to specific events using the code provided in the `src` folder, specifically the `by_search_article_extraction.py` script. In this script, you should modify the code to include the event name as the search word and adjust the number of related articles. The process for choosing the number of related articles is explained in detail in the thesis.
 
+To analyze the articles extracted from the English Wikipedia editing history, follow these steps:
+
+**Before Running the Analysis Script, Modify the Configuration**:
+
+Before executing the "run_all.py" script, you'll need to customize the configuration in the "config.json" file to specify the event you want to analyze. Here's what you should modify in the "config.json" file:
+
+```json
+{
+    "given_date": "YYYY-MM-DD",  // Replace with the date of the event (e.g., "2023-01-15").
+    "input_file": "Event_Data_File.xml.gz",  // Replace with the name of the extracted related articles file.
+    "event_name_for_latex": "Event Name"  // Replace with the name of the event for LaTeX files.
+}
+
 ## Performing Analysis on Extracted Articles
 
 To analyze the articles extracted from the English Wikipedia editing history, follow these steps:
